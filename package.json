@@ -1,0 +1,21 @@
+{
+  "name": "sequelize-typescript-automigration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize-typescript": "^2.1.6"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "jest": "^29.7.0",
+    "sequelize-cli": "^6.6.2",
+    "umzug": "^3.8.1"
+  }
+}
